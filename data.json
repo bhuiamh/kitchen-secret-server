@@ -1,5 +1,5 @@
 [{
-    "services": [
+    "chefs": [
       {
         "id": 1,
         "picture": "https://example.com/chef1.jpg",
