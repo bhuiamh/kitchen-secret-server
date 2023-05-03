@@ -5,7 +5,7 @@ const app = express();
 app.use(cors());
 const allService = require("./data.json");
 app.get("/", (req, res) => {
-  res.json({ message: "hello server running" });
+  res.json({ message: "Boss, server is running in your computer" });
 });
 
 app.get("/allData", (req, res) => {
@@ -19,5 +19,5 @@ app.get("/allData/:id", (req, res) => {
 });
 
 app.listen(5000, () => {
-  console.log("server is running on 5000 port");
+  console.log("Boss, Server is running in your computer. Port number 500");
 });
