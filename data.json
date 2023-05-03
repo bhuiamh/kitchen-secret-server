@@ -1,0 +1,84 @@
+[{
+    "services": [
+      {
+        "id": 1,
+        "picture": "https://example.com/chef1.jpg",
+        "name": "John Smith",
+        "years_of_experience": 10,
+        "num_recipes": 50,
+        "likes": 10000,
+        "cooking_items": [
+          "Pasta",
+          "Steak",
+          "Salad"
+        ]
+      },
+      {
+        "id": 2,
+        "picture": "https://example.com/chef2.jpg",
+        "name": "Maria Rodriguez",
+        "years_of_experience": 8,
+        "num_recipes": 70,
+        "likes": 12000,
+        "cooking_items": [
+          "Tacos",
+          "Enchiladas",
+          "Quesadillas"
+        ]
+      },
+      {
+        "id": 3,
+        "picture": "https://example.com/chef3.jpg",
+        "name": "David Lee",
+        "years_of_experience": 12,
+        "num_recipes": 90,
+        "likes": 15000,
+        "cooking_items": [
+          "Sushi",
+          "Ramen",
+          "Tempura"
+        ]
+      },
+      {
+        "id": 4,
+        "picture": "https://example.com/chef4.jpg",
+        "name": "Jane Kim",
+        "years_of_experience": 15,
+        "num_recipes": 120,
+        "likes": 20000,
+        "cooking_items": [
+          "Korean BBQ",
+          "Kimchi",
+          "Bibimbap"
+        ]
+      },
+      {
+        "id": 5,
+        "picture": "https://example.com/chef5.jpg",
+        "name": "Carlos Gomez",
+        "years_of_experience": 7,
+        "num_recipes": 60,
+        "likes": 8000,
+        "cooking_items": [
+          "Empanadas",
+          "Chimichurri",
+          "Asado"
+        ]
+      },
+      {
+        "id": 6,
+        "picture": "https://example.com/chef6.jpg",
+        "name": "Anna Nguyen",
+        "years_of_experience": 6,
+        "num_recipes": 40,
+        "likes": 6000,
+        "cooking_items": [
+          "Pho",
+          "Banh mi",
+          "Spring rolls"
+        ]
+      }
+    ]
+  }
+]
+  
