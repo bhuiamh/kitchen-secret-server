@@ -3,18 +3,18 @@ const cors = require("cors");
 
 const app = express();
 app.use(cors());
-const allService = require("./data.json");
+const allChefs = require("./data.json");
 app.get("/", (req, res) => {
   res.json({ message: "Boss, server is running in your computer" });
 });
 
 app.get("/allData", (req, res) => {
-  res.send(allService);
+  res.send(allChefs);
 });
 
 app.get("/allData/:id", (req, res) => {
   const id = req.params.id;
-  const item = allService[0].service?.find((pd) => pd.id == id);
+  const item = allChefs[0].chefs?.find((chefsData) => chefsData.id == id);
   res.send({ item });
 });
 
