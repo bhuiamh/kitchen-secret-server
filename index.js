@@ -18,6 +18,4 @@ app.get("/allData/:id", (req, res) => {
   res.send({ item });
 });
 
-app.listen(5000, () => {
-  console.log("Boss, Server is running in your computer. Port number 500");
-});
+app.listen(5000, () => {});
