@@ -3,7 +3,8 @@
       {
         "id": 1,
         "picture": "https://tds-images.thedailystar.net/sites/default/files/images/2022/09/27/rafsan_1.png",
-        "name": "Afsan Haque",
+        "name": "Afsanul Haque",
+        "bio": "Afsanul Haque was born on July 2nd, 1985 in Sylhet, Bangladesh. He is a chef at 'The Sylheti Kitchen', a restaurant that specializes in Sylheti cuisine. Afsan loves cooking because it is a way to honor his cultural heritage and share the flavors of his hometown with others. He is known for his mastery of Sylheti cuisine.",
         "years_of_experience": 10,
         "num_recipes": 50,
         "likes": 10000,
@@ -16,7 +17,8 @@
       {
         "id": 2,
         "picture": "https://upload.wikimedia.org/wikipedia/commons/1/13/Sushi_chef_Masayoshi_Kazato_02.JPG",
-        "name": "Abdul Razzak",
+        "name": "Farzana Yasmin",
+        "bio": "Farzana Yasmin was born on September 12th, 1990 in Barisal, Bangladesh. She is a chef at 'The Fisherman's Wharf', a seafood restaurant located in Cox's Bazar. Farzana loves cooking because it allows her to showcase the flavors of the sea and create dishes that are both healthy and delicious. She is known for her expertise in cooking seafood.",
         "years_of_experience": 8,
         "num_recipes": 70,
         "likes": 12000,
@@ -29,7 +31,8 @@
       {
         "id": 3,
         "picture": "https://upload.wikimedia.org/wikipedia/commons/5/50/Chef_Edgar_N%C3%BA%C3%B1ez.jpg",
-        "name": "Shohidur Rahman",
+        "name": "Sajjadul Islam",
+        "bio": "Sajjadul Islam was born on April 9th, 1982 in Rajshahi, Bangladesh. He is a chef at 'The Pitha House', a restaurant that specializes in Bengali sweets. Sajjadul loves cooking because it is a way to connect with his cultural roots and preserve the traditions of his ancestors. He is known for his expertise in making traditional Bengali sweets." ,
         "years_of_experience": 12,
         "num_recipes": 90,
         "likes": 15000,
@@ -42,7 +45,8 @@
       {
         "id": 4,
         "picture": "https://upload.wikimedia.org/wikipedia/commons/7/78/Chef_Tom_Wandera_at_work.jpg",
-        "name": "Korim Mondol",
+        "name": "Sadia Sultana",
+        "bio": "Sadia Sultana was born on November 21st, 1995 in Khulna, Bangladesh. She is a chef at 'The Spice Garden', a restaurant that specializes in Indian cuisine. Sadia loves cooking because it is a way to bring people together and create unforgettable memories. She is known for her unique fusion of Indian and Bengali flavors.",
         "years_of_experience": 15,
         "num_recipes": 120,
         "likes": 20000,
@@ -55,7 +59,8 @@
       {
         "id": 5,
         "picture": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Chef_Romain.jpg",
-        "name": "Musatafizur Rahman",
+        "name": "Muntasir Rahman",
+        "bio": "Muntasir Rahman was born on June 14th, 1991 in Chittagong, Bangladesh. He is a chef at the 'Chittagong Biryani House', a popular restaurant in the city. Muntasir loves cooking because it is an art form that allows him to express his creativity and passion for food. He is known for his mastery of traditional Bangladeshi cuisine.",
         "years_of_experience": 7,
         "num_recipes": 60,
         "likes": 8000,
@@ -68,7 +73,8 @@
       {
         "id": 6,
         "picture": "https://plus.unsplash.com/premium_photo-1676996177429-d9e3db36444a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bGFkeSUyMGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "name": "Sultana Parvin",
+        "name": "Maliha Ahmed",
+        "bio": "Maliha Ahmed was born on January 5th, 1988 in Dhaka, Bangladesh. She is a chef at the renowned restaurant 'Panchforon' in Dhaka. Maliha loves cooking because it allows her to experiment with different flavors and create unique dishes that bring joy to people's lives. She is known for her expertise in Bengali cuisine.",
         "years_of_experience": 6,
         "num_recipes": 40,
         "likes": 6000,
