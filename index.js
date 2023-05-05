@@ -14,8 +14,20 @@ app.get("/allData", (req, res) => {
 
 app.get("/allData/:id", (req, res) => {
   const id = req.params.id;
-  const item = allChefs[0].chefs?.find((chefsData) => chefsData.id == id);
-  res.send({ item });
+  let item = null;
+  allChefs.forEach((obj) => {
+    const chef = obj.chefs.find((c) => c.id == id);
+    if (chef) {
+      item = chef;
+    }
+  });
+  if (item) {
+    res.send({ item });
+  } else {
+    res.status(404).send({ error: `Chef with ID ${id} not found` });
+  }
 });
 
-app.listen(5000, () => {});
+app.listen(5000, () => {
+  console.log("Hei i am running");
+});
